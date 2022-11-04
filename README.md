@@ -1,5 +1,7 @@
 # pid-controller-ros
 
+All files should be inside "project" directory
+
 Usage of PID controller in game
 
 PID algorithm consists of three basic coefficients; proportional, integral and derivative which are varied to get optimal response
