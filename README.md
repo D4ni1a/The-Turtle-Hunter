@@ -1,4 +1,4 @@
-# pid-controller-ros
+# Game "The Turtle Hunter"
 
 All files should be inside "project" directory
 
